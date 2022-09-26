@@ -1,0 +1,18 @@
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\bin\Debug\net6.0-windows\Weather Desktop App.exe
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\bin\Debug\net6.0-windows\Weather Desktop App.deps.json
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\bin\Debug\net6.0-windows\Weather Desktop App.runtimeconfig.json
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\bin\Debug\net6.0-windows\Weather Desktop App.dll
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\bin\Debug\net6.0-windows\Weather Desktop App.pdb
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.csproj.AssemblyReference.cache
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather_Desktop_App.Properties.Resources.resources
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather_Desktop_App.Form1.resources
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.csproj.GenerateResource.cache
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.AssemblyInfoInputs.cache
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.AssemblyInfo.cs
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.csproj.CoreCompileInputs.cache
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.dll
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\refint\Weather Desktop App.dll
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.pdb
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\Weather Desktop App.genruntimeconfig.cache
+D:\GIT\WeatherDesktopApp\Weather Desktop App\Weather Desktop App\obj\Debug\net6.0-windows\ref\Weather Desktop App.dll
